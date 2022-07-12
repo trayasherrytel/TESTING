@@ -20,7 +20,7 @@ GO
 SET QUOTED_IDENTIFIER ON
 GO
 CREATE TABLE [dbo].[test_github1](
-	[company] [varchar](100) NULL,
+
 	[place] [varchar](100) NULL,
 	[address] [varchar](100) NULL,
 	[start_dt] [datetime] NULL,
